@@ -18,7 +18,9 @@ Here are the constraints of Project52.
 
 ## Progress (2018/09/15~Now)
 
-1. (09/15)[https://github.com/kkdai/goFBPages](https://github.com/kkdai/goFBPages) A facebook page photo downloader
+1. (09/15)[https://github.com/kkdai/goFBPages](https://github.com/leo424y/linerb) A Line chatbot which reply google map information and more
+2. (09/22)
+3. (09/29)
 
 
 ## Talk
