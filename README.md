@@ -19,7 +19,7 @@ Here are the constraints of Project52.
 ## Progress (2018/09/15~Now)
 
 1. (09/15)[https://github.com/leo424y/linerb](https://github.com/leo424y/linerb) A Line chatbot which reply google map information and more
-2. (09/22)
+2. (09/22)[https://github.com/leo424y/uwikipedia](https://github.com/leo424y/uwikipedia) A servise which read wikipedia for you
 3. (09/29)
 
 
