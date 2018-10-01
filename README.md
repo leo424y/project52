@@ -20,7 +20,9 @@ Here are the constraints of Project52.
 
 1. (09/15)[https://github.com/leo424y/linerb](https://github.com/leo424y/linerb) A Line chatbot which reply google map information and more
 2. (09/22)[https://github.com/leo424y/uwikipedia](https://github.com/leo424y/uwikipedia) A servise which read wikipedia for you
-3. (09/29)
+3. (09/29)[https://github.com/leo424y/genki-dama-spirit-bomb](https://github.com/leo424y/genki-dama-spirit-bomb) Bookmart to line notify
+4. (10/6)[https://github.com/leo424y/stocker](https://github.com/leo424y/stocker)
+5. (10/12)
 
 
 ## Talk
@@ -35,4 +37,3 @@ Feel free to `fork` this project, if you want to do your `Project52 Challenge`.
 Please file an `issue` if you want to suggest a small project idea. (hopefully it could be done within one week.  :p ).
 
 You can also encourage me by `starring` this project. Or just `join` me.
-
